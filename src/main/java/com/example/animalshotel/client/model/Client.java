@@ -1,4 +1,4 @@
-package com.example.animalshotel.client.model;
+package com.example.animalshotel.owner.model;
 
 import com.example.animalshotel.animal.model.Animal;
 

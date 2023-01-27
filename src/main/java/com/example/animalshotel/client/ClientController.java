@@ -1,4 +1,4 @@
-package com.example.animalshotel.client;
+package com.example.animalshotel.owner;
 
 public class ClientController {
 }

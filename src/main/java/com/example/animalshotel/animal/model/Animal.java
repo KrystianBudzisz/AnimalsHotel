@@ -1,6 +1,6 @@
 package com.example.animalshotel.animal.model;
 
-import com.example.animalshotel.client.model.Client;
+import com.example.animalshotel.owner.model.Client;
 import com.example.animalshotel.room.model.Room;
 
 public class Animal {
